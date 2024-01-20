@@ -1,0 +1,12 @@
+.product-card {
+    border: 1px solid;
+    margin-top: 10px;
+}
+
+.product-card__title {
+    margin: 0;
+}
+
+.product-card__image {
+    width: 100%;
+}
